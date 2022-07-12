@@ -1,0 +1,5 @@
+C:\Users\MORGAN\Documents\Visual Studio 2013\Projects\Excercise01\Excercise01\bin\Debug\Excercise01.dll
+C:\Users\MORGAN\Documents\Visual Studio 2013\Projects\Excercise01\Excercise01\bin\Debug\Excercise01.pdb
+C:\Users\MORGAN\Documents\Visual Studio 2013\Projects\Excercise01\Excercise01\obj\Debug\Excercise01.dll
+C:\Users\MORGAN\Documents\Visual Studio 2013\Projects\Excercise01\Excercise01\obj\Debug\Excercise01.pdb
+C:\Users\MORGAN\Documents\Visual Studio 2013\Projects\Excercise01\Excercise01\obj\Debug\Excercise01.csprojResolveAssemblyReference.cache
